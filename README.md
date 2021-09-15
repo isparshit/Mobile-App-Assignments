@@ -1,6 +1,6 @@
 # Mobile-App-Assignments
 The purpose of this assignment is to give us a better understanding of your learning skill. If you have any questions or need any clarifications for this challenge, please get in touch!
-## Goal:
+## Goal 1:
 
 #### Develop a Currency Conversion App that allows a user view exchange rates for any given currency
 
@@ -28,6 +28,26 @@ The purpose of this assignment is to give us a better understanding of your lear
 - [ ] Architecture, how you've structured your code
 - [ ] Principles, how you belive code should be written
 - [ ] Qualities, how you guarantee your code is functioning
+
+## Goal 2:
+
+#### Develop a sample app that fetches alist of recent paying movies from the Movie Database(tmdb).
+
+- [ ] Create a Project for a Mobile Phone
+- [ ] Android: _Kotlin_ | iOS: _Swift_  You can learn Kotlin/Swift easily I'm sure:))
+
+### Functional Requirements:
+- [ ] Connect to tmdb and retrieve a list of movies that are “Now  Playing”. 
+- [ ] Use this endpoint to retrieve the movies: https://api.themoviedb.org/3/movie/now_playing  
+- [ ] Doc: https://developers.themoviedb.org/3/movies/get-now-playing 
+- [ ] Website: https://www.themoviedb.org/ 
+- [ ] Use free API Access Key for using the API . API key: 34c902e6393dc8d970be5340928602a7 
+- [ ] Displaying movies in a layout you like. For each movie in your layout, please include the movie title, and a poster image.
+- [ ] Users need to be able to favourite a movie locally, and view them whenever they like. (Save to local disk for offline support)  
+- [ ] Implement a local storage to persist results and favourited movies to disk. 
+- [ ] Optional:  Anything you like to expand the functionality of the app. 
+- [ ] Write unit testing
+
 
 ### When you're done...
 
