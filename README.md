@@ -43,10 +43,33 @@ The purpose of this assignment is to give us a better understanding of your lear
 - [ ] Website: https://www.themoviedb.org/ 
 - [ ] Use free API Access Key for using the API . API key: 34c902e6393dc8d970be5340928602a7 
 - [ ] Displaying movies in a layout you like. For each movie in your layout, please include the movie title, and a poster image.
-- [ ] Users need to be able to favourite a movie locally, and view them whenever they like. (Save to local disk for offline support)  
+- [ ] Users need to be able to favourite a movie locally, and view them whenever they like. (Save to local disk for offline support) 
 - [ ] Implement a local storage to persist results and favourited movies to disk. 
 - [ ] Optional:  Anything you like to expand the functionality of the app. 
 - [ ] Write unit testing
+
+## Goal 3:
+
+#### The exercise involves build a “proof of concept” app which consumes a REST service and displays photos with headings and descriptions. The exercise will be evaluated on coding style, understanding of programming concepts, choice of techniques, and also by the developer’s process, as indicated by the trail of git commits.
+
+- [ ] Create a Project for a Mobile Phone
+- [ ] Android: _Kotlin_ | iOS: _Swift_  You can learn Kotlin/Swift easily I'm sure:))
+
+### Functional Requirements:
+- [ ] Ingests a json feed https://dl.dropboxusercontent.com/s/2iodh4vg0eortkl/facts.json
+- [ ] You can use a third party Json parser to parse this if desired.
+- [ ] Displays the content (including image, title and description) in a table
+- [ ] The title in the navbar should be updated from the json
+- [ ] Each row should be the right height to display its own content and no taller. No content should be clipped. This means some rows will be larger than others.
+- [ ] Don’t download all images at once, only as needed
+- [ ] Refresh function, either a refresh button or use pull down to refresh.
+- [ ] Should not block UI when loading the data from the json feed.
+
+
+
+
+
+
 
 
 ### When you're done...
