@@ -65,11 +65,20 @@ The purpose of this assignment is to give us a better understanding of your lear
 - [ ] Refresh function, either a refresh button or use pull down to refresh.
 - [ ] Should not block UI when loading the data from the json feed.
 
+## Goal 4:
+#### Develop a sample app that display Corona Virus statistics and Advice.
 
+- [ ] Create a Project for a Mobile Phone
+- [ ] Android: _Kotlin_ | iOS: _Swift_  You can learn Kotlin/Swift easily I'm sure:))
 
-
-
-
+### Functional Requirements:
+- [ ] Corona Virus Stats & Advices App
+- [ ] Base URLhttps://services1.arcgis.com/0MSEUqKaxRlEPj5g/ArcGIS/rest/services/ncov_cases/FeatureServer?f=pjson
+- [ ] Current statistics of global total confirmed, deaths, recovered cases.
+- [ ] Statistics of countries and regions total cases count
+- [ ] World map with annotation pin and description of affected regions
+- [ ] Datasets is provided by ArcGIS Esri Corona Virus dataset.
+- [ ] Basic advice to prevent and handle virus, myth busters Q&A from WHO.
 
 
 ### When you're done...
