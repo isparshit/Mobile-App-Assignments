@@ -80,6 +80,9 @@ The purpose of this assignment is to give us a better understanding of your lear
 - [ ] Datasets is provided by ArcGIS Esri Corona Virus dataset.
 - [ ] Basic advice to prevent and handle virus, myth busters Q&A from WHO.
 
+Goal: 5
+Simple  Weather App Using OpenWeatherMap’s API and Codable
+
 
 ### When you're done...
 
